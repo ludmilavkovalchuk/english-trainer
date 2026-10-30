@@ -1,0 +1,194 @@
+{
+  "source_url": "https://max.ru/channel_simple_english",
+  "source_note": "Слова и выражения по скриншотам публикаций канала «Учим английский Word of the Day», октябрь 2026.",
+  "lessons": [
+    {
+      "id": "max-recent-2026-10",
+      "title": "Последние находки",
+      "subtitle": "Публикации 19–29 октября",
+      "description": "Along · Dungeon · Coincidence · Under the weather · Call it a day",
+      "image": "bear-reading",
+      "questions": [
+        {
+          "word": "along",
+          "pronunciation": "/əˈlɔːŋ/",
+          "options": [
+            "вдоль, по пути, вместе",
+            "несмотря на, вопреки",
+            "затем, после этого",
+            "напротив, поперёк"
+          ],
+          "correct": "вдоль, по пути, вместе",
+          "example": "Come along! We are going for a walk.",
+          "translation": "Пойдём с нами! Мы идём гулять.",
+          "note": "В сочетаниях смысл меняется: get along — ладить, sing along — подпевать, bring along — взять с собой.",
+          "image": "scene-along.webp",
+          "imageAlt": "Мишка и ретривер идут вместе по осенней тропинке",
+          "date": "29 октября"
+        },
+        {
+          "word": "dungeon",
+          "pronunciation": "/ˈdʌn.dʒən/",
+          "options": [
+            "темница, подземелье",
+            "башня для наблюдения",
+            "сокровищница",
+            "городская крепость"
+          ],
+          "correct": "темница, подземелье",
+          "example": "The prisoner was locked in a dark dungeon.",
+          "translation": "Пленника заперли в тёмной темнице.",
+          "note": "Исторически dungeon связан с замковой башней; сегодня чаще означает тюрьму в подземелье или подземелье в фэнтези.",
+          "image": "scene-dungeon.webp",
+          "imageAlt": "Мишка с фонарём у подземелья средневекового замка",
+          "date": "27 октября"
+        },
+        {
+          "word": "coincidence",
+          "pronunciation": "/koʊˈɪn.sɪ.dəns/",
+          "options": [
+            "совпадение",
+            "намеренная уловка",
+            "предчувствие",
+            "последствие"
+          ],
+          "correct": "совпадение",
+          "example": "What a coincidence! We chose the same book.",
+          "translation": "Какое совпадение! Мы выбрали одну и ту же книгу.",
+          "note": "By coincidence — по совпадению, случайно. Не путай с consequence — последствие.",
+          "image": "scene-coincidence.webp",
+          "imageAlt": "Два мишки случайно встретились возле кафе",
+          "date": "24 октября"
+        },
+        {
+          "word": "under the weather",
+          "pronunciation": "/ˌʌn.dɚ ðə ˈweð.ɚ/",
+          "options": [
+            "неважно себя чувствовать",
+            "попасть под дождь",
+            "переживать из-за прогноза",
+            "находиться на улице"
+          ],
+          "correct": "неважно себя чувствовать",
+          "example": "I am feeling a little under the weather today.",
+          "translation": "Сегодня я немного неважно себя чувствую.",
+          "note": "Идиома о лёгком недомогании или плохом самочувствии, а не о настоящей погоде.",
+          "image": "scene-under-the-weather.webp",
+          "imageAlt": "Мишка укутался пледом под маленькой дождевой тучкой",
+          "date": "21 октября"
+        },
+        {
+          "word": "call it a day",
+          "pronunciation": "/ˌkɔːl ɪt ə ˈdeɪ/",
+          "options": [
+            "закончить работу на сегодня",
+            "назначить день встречи",
+            "объявить праздник",
+            "встретить рассвет"
+          ],
+          "correct": "закончить работу на сегодня",
+          "example": "We have done enough. Let us call it a day.",
+          "translation": "Мы достаточно сделали. Давай на сегодня закончим.",
+          "note": "Устойчивое разговорное выражение: пора остановиться, на сегодня хватит.",
+          "image": "scene-call-it-a-day.webp",
+          "imageAlt": "Мишка завершает учёбу с книжкой на закате",
+          "date": "19 октября"
+        }
+      ]
+    },
+    {
+      "id": "max-autumn-2026-10",
+      "title": "Образы и характер",
+      "subtitle": "Публикации 9–19 октября",
+      "description": "Nudge · Think outside the box · Beyond · Whimsy · Wary",
+      "image": "bear-stars",
+      "questions": [
+        {
+          "word": "nudge",
+          "pronunciation": "/nʌdʒ/",
+          "options": [
+            "слегка подтолкнуть, мягко побудить",
+            "толкнуть изо всех сил",
+            "полностью запретить",
+            "отвернуться и не замечать"
+          ],
+          "correct": "слегка подтолкнуть, мягко побудить",
+          "example": "Sometimes we all need a little nudge.",
+          "translation": "Иногда всем нам нужен небольшой толчок, немного поддержки.",
+          "note": "И о физическом лёгком толчке, и о ненавязчивом побуждении к действию.",
+          "image": "scene-nudge.webp",
+          "imageAlt": "Большой белый мишка мягко подбадривает медвежонка",
+          "date": "19 октября"
+        },
+        {
+          "word": "think outside the box",
+          "pronunciation": "/θɪŋk ˌaʊtˈsaɪd ðə bɑːks/",
+          "options": [
+            "мыслить нестандартно",
+            "мыслить только по правилам",
+            "думать о переезде",
+            "скрывать свои идеи"
+          ],
+          "correct": "мыслить нестандартно",
+          "example": "We need to think outside the box to solve this.",
+          "translation": "Чтобы решить это, нам нужно мыслить нестандартно.",
+          "note": "Box — воображаемая коробка привычных ограничений. Идиома означает выйти за рамки шаблонов.",
+          "image": "scene-think-outside-the-box.webp",
+          "imageAlt": "Мишка с идеей вылезает из коробки",
+          "date": "15 октября"
+        },
+        {
+          "word": "beyond",
+          "pronunciation": "/bɪˈjɑːnd/",
+          "options": [
+            "за пределами, по ту сторону",
+            "между двумя предметами",
+            "прямо перед собой",
+            "вместо чего-то"
+          ],
+          "correct": "за пределами, по ту сторону",
+          "example": "That is beyond me!",
+          "translation": "Это выше моего понимания!",
+          "note": "Beyond — за границей чего-то: места, возможностей, понимания. It’s beyond me! — ума не приложу!",
+          "image": "scene-beyond.webp",
+          "imageAlt": "Мишка смотрит вдаль поверх горного озера",
+          "date": "14 октября"
+        },
+        {
+          "word": "whimsy",
+          "pronunciation": "/ˈwɪm.zi/",
+          "options": [
+            "причудливость, игривая фантазия",
+            "строгая логика",
+            "затаённая обида",
+            "равнодушие"
+          ],
+          "correct": "причудливость, игривая фантазия",
+          "example": "The little cottage was full of whimsy.",
+          "translation": "Маленький домик был полон сказочного очарования.",
+          "note": "Whimsy — игривое воображение, необычность; иногда — прихоть. Прилагательное: whimsical.",
+          "image": "scene-whimsy.webp",
+          "imageAlt": "Мишка возле сказочного домика с цветами",
+          "date": "11 октября"
+        },
+        {
+          "word": "wary",
+          "pronunciation": "/ˈwer.i/",
+          "options": [
+            "настороженный, осмотрительный",
+            "беззаботный и доверчивый",
+            "очень увлечённый",
+            "усталый и сонный"
+          ],
+          "correct": "настороженный, осмотрительный",
+          "example": "Be wary of offers that seem too good.",
+          "translation": "Остерегайся предложений, которые кажутся слишком хорошими.",
+          "note": "Wary of — настороженно относиться к чему-либо. Не путай с weary — уставший.",
+          "image": "scene-wary.webp",
+          "imageAlt": "Мишка настороженно наблюдает из-за камня",
+          "date": "9 октября"
+        }
+      ]
+    }
+  ]
+}
